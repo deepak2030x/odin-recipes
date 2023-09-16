@@ -1,0 +1,10 @@
+.content {
+  text-align: center;
+  font-family: monospace, sans-serif;
+  font-style: oblique;
+}
+
+.center-items {
+  /* text-align: center; */
+  display: inline-block;
+}
